@@ -1,2 +1,2 @@
-# Airline-Reservation-System
+# Airline Reservation System
 Ticketing Application Using The .NET framework
